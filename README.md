@@ -1,0 +1,1 @@
+[![Daily Auto Commit](https://github.com/sayantan724K/devsync-auto-update/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/sayantan724K/devsync-auto-update/actions/workflows/daily-commit.yml)
